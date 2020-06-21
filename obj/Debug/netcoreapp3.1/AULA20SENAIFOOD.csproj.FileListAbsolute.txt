@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.exe
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.deps.json
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.dll
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\bin\Debug\netcoreapp3.1\AULA20SENAIFOOD.pdb
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.dll
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.pdb
+C:\Users\vinicius\Documents\AULA20SENAIFOOD\obj\Debug\netcoreapp3.1\AULA20SENAIFOOD.genruntimeconfig.cache
